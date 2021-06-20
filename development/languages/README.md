@@ -6,5 +6,5 @@
 * [Dart](/docs/development/languages/dart)
 * [FIDL](/docs/development/languages/fidl)
 * [Go](/docs/development/languages/go)
-* [Python](/docs/development/languages/python)
+* [Python](/development/languages/python)
 * [Rust](/docs/development/languages/rust)
